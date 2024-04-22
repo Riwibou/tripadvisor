@@ -684,13 +684,13 @@ footer {
 
 .logo-footer p {
   margin-left: 10px;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: bold;
 }
 
 .logo-footer a {
   font-weight: bolder;
-  font-size: 14px;
+  font-size: 16px;
   text-decoration: none;
   color: black;
 }
